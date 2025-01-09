@@ -76,10 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminecheikh&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medaminecheikh&theme=radical" alt="GitHub Streak"/>
-</p>
-
 
 ---
 
