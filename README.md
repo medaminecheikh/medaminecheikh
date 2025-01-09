@@ -89,5 +89,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColors=0077B6,00B4D8,90E0EF&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontAlignY=30&fontColor=white"/>
 </p>
+
