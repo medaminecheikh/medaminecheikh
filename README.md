@@ -86,7 +86,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/medaminecheikh/medaminecheikh/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+ ![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 </p>
 
 
