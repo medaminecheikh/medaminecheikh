@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColors=0077B6,00B4D8,90E0EF&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=30&fontColor=white"/>
 </p>
-
-
 <!-- Introduction -->
 <h2 align="center">Hi there! ✨ Check Me Out! ✨</h2>
 <p align="center">
