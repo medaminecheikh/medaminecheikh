@@ -3,16 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=30&fontColor=white"/>
 </p>
 
-<!-- Check Me Out -->
-<h2 align="center">✨ Check Me Out! ✨</h2>
-<p align="center">
-  Explore my repositories and projects that showcase my skills and passion for software engineering!
-</p>
-
----
-
 <!-- Introduction -->
-<h2 align="center">Hi there! 👋</h2>
+<h2 align="center">Hi there! 👋, ✨ Check Me Out! ✨</h2>
 <p align="center">
   I'm <strong>Cheikh Mohamed Amine</strong>, a passionate Software Engineer crafting scalable applications and exploring innovative solutions!
 </p>
@@ -88,9 +80,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medaminecheikh&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medaminecheikh&theme=radical" alt="Profile Summary"/>
-</p>
 
 ---
 
