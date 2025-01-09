@@ -25,7 +25,7 @@
 ### 🧑‍💻 About Me
 
 - 🌟 **Passionate about building efficient backend systems and dynamic user interfaces.**
-- 🔭 Currently working on **Java Spring Boot** and **ReactJS** projects.
+- 🔭 Currently working on **my Website** and **impactful** projects.
 - 🌱 Continuously learning **Security**, **Cloud technologies**, and **AI/ML**.
 - 💬 Ask me about **web development**, **architecture**, or **event-driven systems**!
 - 🚀 Aspiring to contribute to impactful projects that push technology boundaries.
