@@ -3,10 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=30&fontColor=white"/>
 </p>
 
+<!-- Check Me Out -->
+<h2 align="center">✨ Check Me Out! ✨</h2>
+<p align="center">
+  Explore my repositories and projects that showcase my skills and passion for software engineering!
+</p>
+
+---
+
 <!-- Introduction -->
 <h2 align="center">Hi there! 👋</h2>
 <p align="center">
-  I'm <strong>Cheikh Mohamed Amine</strong>, a Software Engineer crafting scalable applications and exploring innovative solutions!
+  I'm <strong>Cheikh Mohamed Amine</strong>, a passionate Software Engineer crafting scalable applications and exploring innovative solutions!
 </p>
 
 <!-- Social Links -->
@@ -42,10 +50,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
   
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
 
   <!-- Tools -->
@@ -53,13 +64,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 
-#### 💻 Platforms & Deployment
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50"/>
+  <!-- IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
@@ -68,6 +78,10 @@
 ### 🔥 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=medaminecheikh&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminecheikh&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -80,11 +94,12 @@
 
 ---
 
-<!-- Contribution Graph -->
-### 🌟 Contribution Graph
+### 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=medaminecheikh&theme=radical" alt="Contribution Graph"/>
+  <img src="https://github.com/medaminecheikh/medaminecheikh/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
 
 ---
 
