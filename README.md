@@ -4,9 +4,9 @@
 </p>
 
 <!-- Introduction -->
-<h2 align="center">Hi there! 👋, ✨ Check Me Out! ✨</h2>
+<h2 align="center">Hi there! ✨ Check Me Out! ✨</h2>
 <p align="center">
-  I'm <strong>Cheikh Mohamed Amine</strong>, a passionate Software Engineer crafting scalable applications and exploring innovative solutions!
+  I'm <strong>Cheikh Mohamed Amine</strong>, a Software Engineer crafting scalable applications and exploring innovative solutions!
 </p>
 
 <!-- Social Links -->
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-cheikh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:medaminecheikhjob@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
